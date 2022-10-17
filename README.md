@@ -1,4 +1,4 @@
-![imagem da tela de login](https://github.com/wendelsilva/tokenlab-challenge/blob/main/web/web-calendar/src/assets/login-screen.png?raw=true)
+![imagem de capa](https://github.com/wendelsilva/ignite-lab-design-system/blob/main/ignitelab-design-system.png?raw=true)
 # ignite-lab-design-system
 
 Evento da rocketseat onde durante 1 semana desenvolvemos um design system simples do figma ao react.
