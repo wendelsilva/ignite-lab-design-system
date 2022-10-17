@@ -20,3 +20,7 @@ Executar FrontEnd
 ```
 npm run dev
 ```
+Executar Storyboard
+```
+npm run storybook
+```
